@@ -26,7 +26,7 @@ body{
 }
 
 .top-padding {
-  margin-top: 50px;
+  margin-top: 397px;
 }
 
 .top-margin {
@@ -93,11 +93,14 @@ p {
   min-height: 100vh;
   background-color: #f8f9fa;
 }
-
+.nav-link:hover{
+  color: #F54042 !important;
+}
 .nav-link {
   color: black;
   font-weight: 600;
   font-size: 20px;
+  
 }
 
 .main-heading {
@@ -109,3 +112,27 @@ p {
 .text-gray {
   color: #A2A2A8;
 }
+    .top-games {
+      background-color: #FFB525;
+      padding: 10px;
+    }
+    .custom-icon{
+      height: 150px;
+    }
+    .best-games {
+      background: linear-gradient(145deg, #ff4444, #ff8888);
+      padding: 10px;
+    }
+    .new-games {
+      background: linear-gradient(145deg, #0033cc, #0066ff);
+      padding: 10px;
+    }
+    .rounded-lg{
+      border-radius: 20px !important;
+    }
+    .h5-custom{
+      font-size: 30px;
+      font-weight: 800;
+      color: #FFFFFF;
+      padding-left: 15px;
+    }
