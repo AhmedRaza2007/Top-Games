@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+body{
+  font-family: "Manrope";
+}
+.sideBar {
+  border-right: 1px solid #DCDCE7;
+
+  h6 {
+    color: #A2A2A8;
+    font-size: 12px;
+  }
+
+  li {
+    a {
+      font-weight: 600;
+      color: #1E1D22 !important;
+      font-size: 15px;
+      
+      i {
+        color: #A2A2A8;
+        padding-right: 10px;
+      }
+    }
+
+  }
+}
+
+.top-padding {
+margin-top: 351px;
+}
+
+.top-margin {
+  margin-top: 60px;
+}
+
+.input-field {
+  i {
+    top: 30px;
+    padding-left: 8px;
+    color: #A2A2A8;
+  }
+
+  input {
+    padding-left: 30px;
+  }
+}
+
+.main-div {
+  margin-top: 42px;
+}
+
+.rating {
+  font-size: 0.8rem;
+  color: #FFA500;
+}
+
+.card {
+  border: none;
+}
+
+.card-title {
+  width: 154px;
+  font-weight: 600;
+}
+
+.main-card {
+  display: flex;
+  padding-top: 5px;
+}
+
+p {
+  margin: 0px;
+}
+
+.main-container {
+  h4 {
+    font-weight: 800;
+    color: #1E1D22;
+  }
+}
+
+.click {
+  color: #F54042;
+  text-decoration: none;
+}
+
+.card-img-top {
+  width: 200px;
+  padding-right: 6px;
+}
+
+.sideBar {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+.nav-link:hover{
+  color: #F54042 !important;
+}
+.nav-link {
+  color: black;
+  font-weight: 600;
+  font-size: 20px;
+  
+}
+
+.main-heading {
+  color: #A2A2A8;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.text-gray {
+  color: #A2A2A8;
+}
+    .top-games {
+      background-color: #FFB525;
+      padding: 10px;
+    }
+    .custom-icon{
+      height: 150px;
+    }
+    .best-games {
+      background: linear-gradient(145deg, #ff4444, #ff8888);
+      padding: 10px;
+    }
+    .new-games {
+      background: linear-gradient(145deg, #0033cc, #0066ff);
+      padding: 10px;
+    }
+    .rounded-lg{
+      border-radius: 20px !important;
+    }
+    .h5-custom{
+      font-size: 30px;
+      font-weight: 800;
+      color: #FFFFFF;
+      padding-left: 15px;
+    }
